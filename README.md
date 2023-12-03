@@ -1,5 +1,5 @@
 # How to use the Streamlit Website.
-1) download the zipped .nc file.
+1) download the zipped .nc file (ca_subCA_das_2022010103.zip)
 2) unzip it somewhere
 3) go to https://aquaticrigtest.streamlit.app/
 4) upload that .nc file to the website.
